@@ -1,6 +1,11 @@
 # Introduction to Data Engineering on Databricks
 
 Demo for Data Engineering in Databricks with real applications using simulated data of a Bouldering Gym (Momentum).
+<div align="center">
+	<img src='./figs/Momentum_Logo.png'></img> 
+</div>
+
+
 
 ## Table of Contents
 
