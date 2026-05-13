@@ -1,3 +1,1 @@
-import general_functions
-import transform_functions
-import widgets
+from helpers import general_functions
