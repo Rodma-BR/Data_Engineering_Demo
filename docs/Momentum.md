@@ -13,10 +13,10 @@ Momentum is a bouldering gym located in Guanajuato. <br>
 
 
 ## About the logo<a id="logo"></a>
-
-
+The logo reflects our life thinking that reduces to "Even in the hardest moments keep trying".
+As you can see, the climber is holding tight with just one hand to a very stiff cliff, most people would've given up... but he's still hanging as if his life depends upon that hold. 
+We see life this way, success is just a small crimp which you have to hold no matter what!
 <img src='../figs/Momentum_Logo.png'></img> 
-
 
 ## About the values <a id="values"></a>
 
