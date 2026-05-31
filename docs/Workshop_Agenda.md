@@ -26,7 +26,11 @@ The discipline of designing, building, and maintaining robust data pipelines tha
 
 ## Momentum Proyect <a id="momentum"></a>
 
-Momentum is a bouldering gym located in Guanajuato. As customers increases, data and complexity increases too, leading to problems that are not easily solve as expected. 
+Momentum is a bouldering gym located in Guanajuato. See more,  <a href= './Momentum.md'>Momentun</a>
+
+<u><b><i>Momentum & Data</i></b></u>
+
+As customers increases, data and complexity increases too, leading to problems that are not easily solve as expected. 
 In this scenario, some questions arise
 
 - How many customers are we receiving per day? Is there any trend?
@@ -35,5 +39,17 @@ In this scenario, some questions arise
 - The suscription plans prices makes sense?
 - Where are my customers located? Are my customers students, kids, workers?
 
-In order to help 
+<b><i><u>Our mission</u></i></b>
+
+In order to help Momentum, we have to gather all data and process it in Databricks
+
+
+
+
+
+
+
+
+
+
 
