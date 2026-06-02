@@ -1,4 +1,4 @@
-# Introduction to Data Engineering on Databricks
+# Introduction to Data Engineering in Databricks
 
 Demo for Data Engineering in Databricks with real applications using simulated data of a Bouldering Gym (Momentum).
 
@@ -8,13 +8,11 @@ Demo for Data Engineering in Databricks with real applications using simulated d
 	<img src='./figs/Momentum_Logo.png'></img> 
 </div>
 
-
-
 ## Table of Contents
 
 - [Objectives](#objectives)
 - [Sign Up](#signup)
-- [Workspace Set Up](#workspace-setup)
+- [How to contribute](#colab)
 
 ## Objectives <a id="objectives"></a>
 
@@ -27,5 +25,8 @@ New to Databricks Free Edition?
 Create an account by following some quick steps
 <a href ="./docs/Databricks_Registration_Guide.md">Databricks_Registration_Guide</a>
 
-## Workspace Set Up <a id="signup"></a>
+## How to contribute <a id="colab"></a>
 
+You can contribute by analyzing data, finding insights, creating ML models and more. If you have an idea on how to take this proyect to a new level, kindly send an email to
+
+<b><i>deku.momentum@gmail.com</b></i>

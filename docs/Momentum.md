@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [What is momemtum](#whatis)
+- [What is momentum](#whatis)
 - [About the logo](#logo)
 - [About the values](#values)
 
-## What is momemtum <a id="whatis"></a>
+## What is momentum <a id="whatis"></a>
 
 Momentum is a bouldering gym located in Guanajuato. <br>
 <img src='../figs/boulder_gym_entrance.png'></img> 
@@ -20,7 +20,7 @@ We see life this way, success is just a small crimp which you have to hold no ma
 
 ## About the values <a id="values"></a>
 
-We welcome everyone to have fun and train inside Momemtum. Momemntum also shares this values
+We welcome everyone to have fun and train inside Momentum. Momentum also shares this values
 
 - <b>Friendship</b>: We want everyone to get a taste of the climbing brotherhood
 - <b>Sportmanship</b>: Lets treat all members with respect, we all started from zero
