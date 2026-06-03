@@ -17,4 +17,8 @@ To access the gym, a few steps are required. The next figure shows the flow
 </li>
 </ol>
 
-# Momentum 
+# Momentum tables
+
+Momentum opened aproximately 5 months ago, so let's consider it a quite new bussines. Being new also means having to build some stuff from scratch, such as designing a data model or choosing the right tools. After some discussion, the E-R model contains 8 tables that will preserve all the data we need (at the moment!)
+
+<img src='../figs/Data_Model.png'></img> 

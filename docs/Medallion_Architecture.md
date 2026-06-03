@@ -5,3 +5,6 @@ A <a href ="https://www.databricks.com/es/blog/what-is-medallion-architecture">M
 In simple words, it's one common way to organize data, mostly tables in a logical order. The stages follows the data preparation process, as bronze is commonly refered to the layer where raw data is stored and gold layer where the ready to use data lives.
 
 <img src= "../figs/databricks_medallion_architecture.png"></i>
+
+
+
