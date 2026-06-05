@@ -38,7 +38,7 @@ In this scenario, some questions arise
 - How many customers are we receiving per day? Is there any trend?
 - Should I hire more staff certain days?
 - What is the gross income?
-- The suscription plans prices makes sense?
+- Do the suscription plans prices makes sense?
 - Where are my customers located? Are my customers students, kids, workers?
 
 <b><i><u>Our mission</u></i></b>
