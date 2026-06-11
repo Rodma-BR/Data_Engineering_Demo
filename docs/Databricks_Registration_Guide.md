@@ -1,4 +1,4 @@
-# How to Create an account on Databricks Free Edition
+# How to Create an account in Databricks Free Edition
 
 Databricks Free Edition is a Free Platform where you can store, process, share and analyze data. It has several usefull features such as job orquestration, streaming capabilities, model deployment, model monitoring, etc.
 

@@ -1,6 +1,6 @@
 # Introduction to Data Engineering in Databricks
 
-Demo for Data Engineering in Databricks with real applications using simulated data of a Bouldering Gym (Momentum).
+Demo for Data Engineering in Databricks with real applications, using simulated data of a Bouldering Gym (Momentum).
 
 <br>
 
@@ -16,7 +16,10 @@ Demo for Data Engineering in Databricks with real applications using simulated d
 
 ## Objectives <a id="objectives"></a>
 
-Momentum is a new climbing gym located in Guanajuato specialized on bouldering, that is using no ropes, instead these gyms use thick foam mats, known as "crash pads," covering the floor to cushion falls.
+Momentum is a bouldering gym that needs data professionals to solve problems and improve in areas that have not even been considered, the owner also wants to improve customers experience and attract even more clients. Our job is to understand the clients behaviour and share, in a non-technical way, our insights and conclusions.
+
+This missions takes several steps, begining with doing engineering, then understanding the customers via data analysis, lastly, automate solutions such as a periodical reporting or deploying a ML model.
+
 Learn more about <a href = "./docs/Momentum.md">Momentum</a>.
 
 ## Sign Up <a id="signup"></a>
